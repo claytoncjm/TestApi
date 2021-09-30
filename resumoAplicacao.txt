@@ -1,0 +1,6 @@
+Saudações
+
+   Me chamo Clayton e estou enviando um "explicativo" da aplicação, ainda nao tenho dominio de consumição de manipulação de API, fiz uma aplicação de construção de uma API chamada WebApiContato para ser comsumida pela aplicação ContatoApi, criei um banco de dados na qual o ContatoApi consome de WebApi atraves das operações dos 4 verbos "GET,POST, PUT e DELETE". Peço - lhes desculpas pela demora e por mudar o foco da avaliação e espero que o codigo possa servir para referencia e claro desde ja lhes agradeço pela oportunidade e paciencia
+
+Ate
+Clayton

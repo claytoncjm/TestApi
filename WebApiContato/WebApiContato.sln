@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiContato", "WebApiContato.csproj", "{911DED38-EFB4-4762-9D15-1215A3E27046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{911DED38-EFB4-4762-9D15-1215A3E27046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911DED38-EFB4-4762-9D15-1215A3E27046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911DED38-EFB4-4762-9D15-1215A3E27046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911DED38-EFB4-4762-9D15-1215A3E27046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CDA5F3E-D5D5-42C6-9F15-49971B4AAA4C}
+	EndGlobalSection
+EndGlobal
